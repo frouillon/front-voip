@@ -85,11 +85,11 @@ return (
                 required
                 >
                     <option value="*" disabled>Voces</option>
-                    <option value="1">Voz 1</option>
-                    <option value="2">Voz 2</option>
-                    <option value="3">Voz 3</option>
-                    <option value="4">Voz 4</option>
-                    <option value="5">Voz 5</option>
+                    <option value="1">Lucia (es-ES)</option>
+                    <option value="2">Sergio (es-ES)</option>
+                    <option value="3">Penelope (es-US)</option>
+                    <option value="4">Pedro (es-US)</option>
+                    <option value="5">Danielle (es-US)</option>
                 </select>
             </label>
             <fieldset className="flex gap-2">
